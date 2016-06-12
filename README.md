@@ -1,2 +1,2 @@
 # Documents
-Documents Publique de l'AGEEI à destination de ces membres.
+Documents publics de l'AGEEI à destination de ses membres.
